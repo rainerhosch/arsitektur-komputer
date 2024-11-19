@@ -29,7 +29,7 @@ def execute_instruction(instruction):
     return memory
 
 # Fungsi utama untuk mensimulasikan proses prosesor
-def processor_simulation_():
+def processor_simulation():
     print("Simulasi Prosesor Dimulai...")
     time.sleep(1)
 
